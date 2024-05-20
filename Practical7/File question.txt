@@ -1,0 +1,1 @@
+Plot a box plot of DALYs across countries in 2019
