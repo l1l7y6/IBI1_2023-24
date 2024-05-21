@@ -1,0 +1,6 @@
+My favorite part was the part about random numbers and 2D graphs.
+Because at first I didn't realize that random numbers accumulated with sum would exponentially skyrocket, but I managed to solve the problem after careful analysis.
+And because of the application of random numbers, every time I clicked to run the program, a different graph would appear
+This gave me a great sense of accomplishment.
+The 2D graph part was very challenging, at first I wrote a program that required me to click through one by one
+Then I looked up information and watched videos to learn how to do it, and eventually made it look the way I wanted.
